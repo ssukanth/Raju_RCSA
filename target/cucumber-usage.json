@@ -1,0 +1,290 @@
+[
+  {
+    "source": "^User navigates to the \u0027Trading Terms\u0027 section$",
+    "steps": [
+      {
+        "name": "User navigates to the \u0027Trading Terms\u0027 section",
+        "aggregatedDurations": {
+          "average": 1.159455524,
+          "median": 1.159455524
+        },
+        "durations": [
+          {
+            "duration": 1.159455524,
+            "location": "RcsSaasMMPDefaultPayment.feature:26"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^User clicks on Configuration$",
+    "steps": [
+      {
+        "name": "User clicks on Configuration",
+        "aggregatedDurations": {
+          "average": 2.487652944,
+          "median": 2.487652944
+        },
+        "durations": [
+          {
+            "duration": 2.487652944,
+            "location": "RcsSaasMMPDefaultPayment.feature:13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^User selects the Collection Type as \u0027Cheque\u0027 only \u0026 verifies the Preferred Payment Mode dropdown field auto-populates the following value as \u0027Cheque\u0027$",
+    "steps": [
+      {
+        "name": "User selects the Collection Type as \u0027Cheque\u0027 only \u0026 verifies the Preferred Payment Mode dropdown field auto-populates the following value as \u0027Cheque\u0027",
+        "aggregatedDurations": {
+          "average": 6.384524931,
+          "median": 6.384524931
+        },
+        "durations": [
+          {
+            "duration": 6.384524931,
+            "location": "RcsSaasMMPDefaultPayment.feature:29"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^User navigates to the \u0027LOV\u0027 tab \u0026 selects the LOV type as \u0027User\u0027$",
+    "steps": [
+      {
+        "name": "User navigates to the \u0027LOV\u0027 tab \u0026 selects the LOV type as \u0027User\u0027",
+        "aggregatedDurations": {
+          "average": 7.242717142,
+          "median": 7.242717142
+        },
+        "durations": [
+          {
+            "duration": 7.242717142,
+            "location": "RcsSaasMMPDefaultPayment.feature:15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^The User should be successfully logged into the Application$",
+    "steps": [
+      {
+        "name": "The User should be successfully logged into the Application",
+        "aggregatedDurations": {
+          "average": 0.0000896,
+          "median": 0.0000896
+        },
+        "durations": [
+          {
+            "duration": 0.0000896,
+            "location": "RcsSaasMMPDefaultPayment.feature:12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^User verifies the following values are defined under the new LOV - Cash, Cheque, MMP, EFT$",
+    "steps": [
+      {
+        "name": "User verifies the following values are defined under the new LOV - Cash, Cheque, MMP, EFT",
+        "aggregatedDurations": {
+          "average": 24.338059364,
+          "median": 24.338059364
+        },
+        "durations": [
+          {
+            "duration": 24.338059364,
+            "location": "RcsSaasMMPDefaultPayment.feature:18"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^User selects the Collection Type as \u0027Deferred Cheque\u0027 \u0026 verifies the Preferred Payment Mode dropdown field auto-populates the following values as \u0027Cash\u0027, \u0027Cheque\u0027, \u0027MMP\u0027 \u0026 \u0027EFT\u0027\\.$",
+    "steps": [
+      {
+        "name": "User selects the Collection Type as \u0027Deferred Cheque\u0027 \u0026 verifies the Preferred Payment Mode dropdown field auto-populates the following values as \u0027Cash\u0027, \u0027Cheque\u0027, \u0027MMP\u0027 \u0026 \u0027EFT\u0027.",
+        "aggregatedDurations": {
+          "average": 6.497497394,
+          "median": 6.497497394
+        },
+        "durations": [
+          {
+            "duration": 6.497497394,
+            "location": "RcsSaasMMPDefaultPayment.feature:31"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^User verifies when the Set Code for the LOV is entered as \u0027PPM\u0027 then the Set Name is displayed as \u0027Preferred Payment Method\u0027\\.$",
+    "steps": [
+      {
+        "name": "User verifies when the Set Code for the LOV is entered as \u0027PPM\u0027 then the Set Name is displayed as \u0027Preferred Payment Method\u0027.",
+        "aggregatedDurations": {
+          "average": 6.347757468,
+          "median": 6.347757468
+        },
+        "durations": [
+          {
+            "duration": 6.347757468,
+            "location": "RcsSaasMMPDefaultPayment.feature:16"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^User clicks on the Data Entry \u0026 selects any available customer where Customer type \u003d Outlet \u0026 navigates to the profile tab$",
+    "steps": [
+      {
+        "name": "User clicks on the Data Entry \u0026 selects any available customer where Customer type \u003d Outlet \u0026 navigates to the profile tab",
+        "aggregatedDurations": {
+          "average": 10.096486965,
+          "median": 10.096486965
+        },
+        "durations": [
+          {
+            "duration": 10.096486965,
+            "location": "RcsSaasMMPDefaultPayment.feature:25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^User Provides the valid Admin credentials$",
+    "steps": [
+      {
+        "name": "User Provides the valid Admin credentials",
+        "aggregatedDurations": {
+          "average": 0.00008704,
+          "median": 0.00008704
+        },
+        "durations": [
+          {
+            "duration": 0.00008704,
+            "location": "RcsSaasMMPDefaultPayment.feature:11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^User verifies the dropdown field named \u0027Preferred Payment Mode\u0027 is displayed$",
+    "steps": [
+      {
+        "name": "User verifies the dropdown field named \u0027Preferred Payment Mode\u0027 is displayed",
+        "aggregatedDurations": {
+          "average": 0.101003645,
+          "median": 0.101003645
+        },
+        "durations": [
+          {
+            "duration": 0.101003645,
+            "location": "RcsSaasMMPDefaultPayment.feature:27"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^User selects the Collection Type as \u0027Cash \u0026 Cheque\u0027 \u0026 verifies the Preferred Payment Mode dropdown field auto-populates the following values as \u0027Cash\u0027, \u0027Cheque\u0027 \u0026 \u0027MMP\u0027$",
+    "steps": [
+      {
+        "name": "User selects the Collection Type as \u0027Cash \u0026 Cheque\u0027 \u0026 verifies the Preferred Payment Mode dropdown field auto-populates the following values as \u0027Cash\u0027, \u0027Cheque\u0027 \u0026 \u0027MMP\u0027",
+        "aggregatedDurations": {
+          "average": 6.441145136,
+          "median": 6.441145136
+        },
+        "durations": [
+          {
+            "duration": 6.441145136,
+            "location": "RcsSaasMMPDefaultPayment.feature:30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^User clicks on the set code \u0027PPM\u0027$",
+    "steps": [
+      {
+        "name": "User clicks on the set code \u0027PPM\u0027",
+        "aggregatedDurations": {
+          "average": 3.936704189,
+          "median": 3.936704189
+        },
+        "durations": [
+          {
+            "duration": 3.936704189,
+            "location": "RcsSaasMMPDefaultPayment.feature:17"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^The User should be navigated to configuration screen successfully$",
+    "steps": [
+      {
+        "name": "The User should be navigated to configuration screen successfully",
+        "aggregatedDurations": {
+          "average": 0.000078933,
+          "median": 0.000078933
+        },
+        "durations": [
+          {
+            "duration": 0.000078933,
+            "location": "RcsSaasMMPDefaultPayment.feature:14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Login to the WebClient$",
+    "steps": [
+      {
+        "name": "Login to the WebClient",
+        "aggregatedDurations": {
+          "average": 0.454749789,
+          "median": 0.454749789
+        },
+        "durations": [
+          {
+            "duration": 0.454749789,
+            "location": "RcsSaasMMPDefaultPayment.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^User selects the Collection Type as \u0027Cash\u0027 \u0026 verifies the Preferred Payment Mode dropdown field auto-populates the following values as \u0027Cash\u0027 \u0026 \u0027MMP\u0027$",
+    "steps": [
+      {
+        "name": "User selects the Collection Type as \u0027Cash\u0027 \u0026 verifies the Preferred Payment Mode dropdown field auto-populates the following values as \u0027Cash\u0027 \u0026 \u0027MMP\u0027",
+        "aggregatedDurations": {
+          "average": 7.714142293,
+          "median": 7.714142293
+        },
+        "durations": [
+          {
+            "duration": 7.714142293,
+            "location": "RcsSaasMMPDefaultPayment.feature:28"
+          }
+        ]
+      }
+    ]
+  }
+]
